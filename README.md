@@ -1,14 +1,12 @@
 # Note Taking
 
-**Run Application**
-NoteTakingApplication.java
-
-**Initial Data File**
+**Setup Steps**
 <br/>
-data.sql
-
-**To Access API Specification:**
-http://localhost:8080/swagger-ui/index.html
+1. After cloning add note-taking as gradle project
+2. Initial data file can be modified in the data.sql file
+3. Run NoteTakingApplication.java to run the application
+4. When NoteTakingApplication is running, Documentation and API Specification can be viewed at http://localhost:8080/swagger-ui/index.html
+5. Curl commands below may be added to an API Testing tool to use the API 
 
 <br/>
 
