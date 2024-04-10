@@ -6,7 +6,8 @@
 2. Initial data file can be modified in the data.sql file
 3. Run NoteTakingApplication.java to run the application
 4. When NoteTakingApplication is running, Documentation and API Specification can be viewed at http://localhost:8080/swagger-ui/index.html
-5. Curl commands below may be added to an API Testing tool to use the API 
+5. Curl commands below may be added to an API Testing tool to use the APIs
+6. Notes.postman_collection.json file can be imported as API collection to Postman to use the APIs
 
 <br/>
 
